@@ -7,3 +7,4 @@ vega==2.6.0
 vega_datasets==0.7.0
 watermark==2.0.1
 scikit-learn>=0.24,<0.25
+sklearn
